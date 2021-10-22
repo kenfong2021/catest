@@ -1,0 +1,13 @@
+C:\Users\TOSHIBA\source\repos\catest\catest\bin\Debug\netcoreapp3.1\catest.exe
+C:\Users\TOSHIBA\source\repos\catest\catest\bin\Debug\netcoreapp3.1\catest.deps.json
+C:\Users\TOSHIBA\source\repos\catest\catest\bin\Debug\netcoreapp3.1\catest.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\catest\catest\bin\Debug\netcoreapp3.1\catest.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\catest\catest\bin\Debug\netcoreapp3.1\catest.dll
+C:\Users\TOSHIBA\source\repos\catest\catest\bin\Debug\netcoreapp3.1\catest.pdb
+C:\Users\TOSHIBA\source\repos\catest\catest\obj\Debug\netcoreapp3.1\catest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\catest\catest\obj\Debug\netcoreapp3.1\catest.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\catest\catest\obj\Debug\netcoreapp3.1\catest.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\catest\catest\obj\Debug\netcoreapp3.1\catest.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\catest\catest\obj\Debug\netcoreapp3.1\catest.dll
+C:\Users\TOSHIBA\source\repos\catest\catest\obj\Debug\netcoreapp3.1\catest.pdb
+C:\Users\TOSHIBA\source\repos\catest\catest\obj\Debug\netcoreapp3.1\catest.genruntimeconfig.cache
